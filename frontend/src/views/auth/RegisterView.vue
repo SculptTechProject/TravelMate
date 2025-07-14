@@ -1,5 +1,4 @@
 <script setup lang="ts"></script>
-
 <template>
-  <router-view />
+  <h1>Register page</h1>
 </template>
